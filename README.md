@@ -1,5 +1,5 @@
 # New_York_AirBnb_DataAnalysis
-New York City Airbnb Open Data |  Peforming Data Wrangling, Analysis, Visualization, Regression, Classification, Hypothesis-Testing 
+New York City Airbnb Open Data |  Performing Data Wrangling, Analysis, Visualization, Regression, Classification, Hypothesis-Testing 
 
 
 # New York City Airbnb Open Data 
